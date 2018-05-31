@@ -1,0 +1,8 @@
+{
+  "name": "Icarus",
+  "app_id": "b34b9000",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
